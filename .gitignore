@@ -1,0 +1,15 @@
+.idea/
+*.class
+*.log
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.env
+.bloop
+.vscode
+target
+.metals
+.metals/metals.mv.db
+config.json
+.metals
